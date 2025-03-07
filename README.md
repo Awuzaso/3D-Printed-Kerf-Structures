@@ -11,6 +11,8 @@ Link: https://dl.acm.org/doi/10.1145/3689050.3704941
 
 Citation: Osazuwa John Okundaye-Santos, Kamal poluri, Aryabhat Darnal, Anastasia Hanifah Muliana, and Jeeeun Kim. 2025. 3D Printed Kerf Structures. In Proceedings of the Nineteenth International Conference on Tangible, Embedded, and Embodied Interaction (TEI '25). Association for Computing Machinery, New York, NY, USA, Article 9, 1–15. https://doi.org/10.1145/3689050.3704941
 
+Contact: Osazuwa Okundaye-Santos (awuzaso@tamu.edu,awuzaso@gmail.com)
+
   
 
 
