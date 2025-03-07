@@ -1,4 +1,4 @@
-# 3DPrintedKerfStructures
+# 3D Printed Kerf Structures
 Repository for 3D printable kerf structure project files including .stls and .svgs for TEI 2025 paper, "3D Printed Kerf Structures".
 
 Kerfing is a well-known method in subtractive manufacturing used to create flexible surfaces from still planar materials. In this work, we study 3D-printed kerfng to enable freeform movement in rigid polymer materials suitable for FDM (Fused Deposition Modeling). Designers and end users can leverage kerf structures due to their ability to bend in single, double, or multiple axes. With the accessi- bility of consumer-grade 3D printers, kerf structures over an easy approach to fabricating freeform structures and compliant mecha- nisms for interactive primitives and applications like grippers.
